@@ -1,2 +1,12 @@
 # منظة التماس للتنمية
-/storage/emulated/0/Android/media/com.whatsapp.w4b/WhatsApp Business/Media/WhatsApp Business Video/VID-20241005-WA0021.mp4
+							<h2>رفع الوعي بالصدمة النفسية للوافدين من مناطق النزاعات</h2>;
+							<video controls src="video/Vid01.mp4.mp4">;
+								<source src="examples/Videos/vid01.mp4" type="video/mp4">
+								<source src="examples/Videos/bird.ogv" type="video/ogg">
+							</video>
+
+							<h2>رفع الوعي بالصدمة النفسية للوافدين من مناطق النزاعات</h2>;
+							<video controls src="video/Vid02.mp4">;
+								<source src="examples/Videos/vid02.mp4" type="video/mp4">
+								<source src="examples/Videos/bird.ogv" type="video/ogg">
+							</video>
